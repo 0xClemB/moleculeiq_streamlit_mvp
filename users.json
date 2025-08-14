@@ -1,0 +1,22 @@
+{
+  "scientist": {
+    "name": "Dr. Alice Chemist",
+    "role": "Medicinal Chemist (Biotech)",
+    "password_hash": "$2b$12$foMHR2vPE1JGJYxm2HJn7.CbdPmzps4JBZxVZebfROqBNDCEhtnyG"
+  },
+  "attorney": {
+    "name": "Ben Patent",
+    "role": "Chemistry Patent Attorney",
+    "password_hash": "$2b$12$VkOuMqWZ.HDrEekZjgYAiu9rbM/6nTRhMNXxSFzyFxjrWelwqiNFy"
+  },
+  "founder": {
+    "name": "Cara Founder",
+    "role": "Biotech Founder / CSO",
+    "password_hash": "$2b$12$SEJ9O7iqYNeUunFIAXt9BesoF4fkTlLKya9f4y4e0dA4Jcygef8xu"
+  },
+  "tto": {
+    "name": "Dana TTO",
+    "role": "University Tech Transfer",
+    "password_hash": "$2b$12$Mm1Ac3XBzI6ig3j4YSnN5eG9bsFHqovmqczbJmljhCUkQtBZ5PWQC"
+  }
+}

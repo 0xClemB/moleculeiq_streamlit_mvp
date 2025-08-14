@@ -1,0 +1,4 @@
+scientist: Chem!2025Test  (Dr. Alice Chemist – Medicinal Chemist (Biotech))
+attorney: IPLaw!2025OK  (Ben Patent – Chemistry Patent Attorney)
+founder: Founder#2025  (Cara Founder – Biotech Founder / CSO)
+tto: TTOsecure#2025  (Dana TTO – University Tech Transfer)

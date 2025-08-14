@@ -1,0 +1,201 @@
+compound_id,smiles,patent_number,assignee,title,filing_date
+CMP0000,Cc1ccccc1C,US4693702,Takeda,COX pathway modulators and their uses,1998-04-24
+CMP0001,Cc1ccccc1C,US5821323,Takeda,Substituted quinazoline derivatives and compositions,2003-10-15
+CMP0002,Cc1ccccc1N,US4921989,Amgen,Substituted quinazoline derivatives and compositions,2001-05-17
+CMP0003,Cc1ccccc1C,US5935940,Pfizer,Substituted quinazoline derivatives and compositions,2021-07-20
+CMP0004,Cc1ccccc1C,US4007047,Bayer,Crystalline forms of active pharmaceutical ingredients,2019-08-22
+CMP0005,Cc1ccccc1C,US4072905,Pfizer,Pharmaceutical compositions comprising aromatic acids,2019-10-15
+CMP0006,Cc1ccccc1N,USRE44757E1,GSK,Methods for preparing substituted indoles,2018-04-04
+CMP0007,Cc1ccccc1C,US20030139869A1,Novartis,Heteroaryl derivatives as enzyme inhibitors,1996-01-17
+CMP0008,Cc1ccccc1N,US20040023894A1,BMS,Substituted quinazoline derivatives and compositions,2005-10-04
+CMP0009,Cc1ccccc1C,US20050020613A1,BMS,Substituted quinazoline derivatives and compositions,2023-08-01
+CMP0010,Cc1ccccc1O,US20060229569A1,GSK,Prodrugs of salicylic acid and uses thereof,1996-04-28
+CMP0011,Cc1ccccc1O,US20070287679A1,Novartis,Agrochemical formulations of heterocyclic compounds,2014-02-28
+CMP0012,Cc1ccccc1N,US20100160383A1,Takeda,Stable phenolic compound compositions,2004-02-03
+CMP0013,Cc1ccccc1N,US20100267608A1,Roche,Stable phenolic compound compositions,2018-04-12
+CMP0014,Cc1ccccc1N,US20110021424A1,Pfizer,Methods for preparing substituted indoles,2004-04-15
+CMP0015,Cc1ccccc1N,US20110039766A1,GSK,Stable phenolic compound compositions,2023-12-04
+CMP0016,Cc1ccccc1C,US20110060062A1,GSK,Crystalline forms of active pharmaceutical ingredients,2021-11-23
+CMP0017,Cc1ccccc1O,US20110201766A1,Roche,Substituted quinazoline derivatives and compositions,1998-09-23
+CMP0018,Cc1ccccc1N,US20110218208A1,Bayer,COX pathway modulators and their uses,2016-12-08
+CMP0019,Cc1ccccc1O,US20130065821A1,Bayer,Agrochemical formulations of heterocyclic compounds,2015-10-10
+CMP0020,Cc1ccccc1O,US20130109679A1,Pfizer,COX pathway modulators and their uses,1997-07-09
+CMP0021,Cc1ccccc1N,US20140256745A1,GSK,Methods for synthesizing substituted benzamides,2001-11-18
+CMP0022,Cc1ccccc1O,WO2009145678A1,Merck,COX pathway modulators and their uses,2007-10-09
+CMP0023,Cc1ccccc1C,WO2010034567A1,AstraZeneca,Stable phenolic compound compositions,2004-08-22
+CMP0024,Cc1ccccc1C,WO2011009876A1,Takeda,COX pathway modulators and their uses,2019-02-22
+CMP0025,Cc1ccccc1O,WO2012087654A1,Amgen,Prodrugs of salicylic acid and uses thereof,2018-08-26
+CMP0026,Cc1ccccc1C,EP2044319A1,GSK,Substituted quinazoline derivatives and compositions,2016-11-10
+CMP0027,Cc1ccccc1N,EP2476155A1,Roche,Heteroaryl derivatives as enzyme inhibitors,2000-04-14
+CMP0028,Cc1ccccc1C,EP2334567A1,Bayer,Substituted quinazoline derivatives and compositions,1996-09-21
+CMP0029,Cc1ccccc1N,EP2897654A1,Takeda,Heteroaryl derivatives as enzyme inhibitors,1997-01-24
+CMP0030,Cc1ccccc1N,US20140309250A1,Roche,Methods for preparing substituted indoles,2004-06-12
+CMP0031,Cc1ccccc1O,US20160012345A1,Pfizer,Heteroaryl derivatives as enzyme inhibitors,2020-02-15
+CMP0032,Cc1ccccc1O,US20190212345A1,Bayer,Prodrugs of salicylic acid and uses thereof,2013-01-14
+CMP0033,Cc1ccccc1N,US20210012345A1,GSK,Crystalline forms of active pharmaceutical ingredients,2018-02-05
+CMP0034,Cc1ccccc1O,US4693702,Novartis,COX pathway modulators and their uses,2005-08-18
+CMP0035,Cc1ccccc1C,US5821323,Roche,Substituted quinazoline derivatives and compositions,2007-01-01
+CMP0036,Cc1ccccc1C,US4921989,Takeda,Crystalline forms of active pharmaceutical ingredients,1997-01-12
+CMP0037,Cc1ccccc1O,US5935940,Bayer,Heteroaryl derivatives as enzyme inhibitors,2004-12-11
+CMP0038,Cc1ccccc1C,US4007047,Amgen,Agrochemical formulations of heterocyclic compounds,2000-12-18
+CMP0039,Cc1ccccc1O,US4072905,GSK,Heteroaryl derivatives as enzyme inhibitors,2002-11-19
+CMP0040,Cc1ccccc1C,USRE44757E1,Novartis,Methods for preparing substituted indoles,2008-09-04
+CMP0041,Cc1ccccc1O,US20030139869A1,Pfizer,Methods for synthesizing substituted benzamides,2006-12-05
+CMP0042,Cc1ccccc1N,US20040023894A1,Merck,Heteroaryl derivatives as enzyme inhibitors,2012-11-27
+CMP0043,Cc1ccccc1C,US20050020613A1,Merck,Crystalline forms of active pharmaceutical ingredients,2015-02-16
+CMP0044,Cc1ccccc1N,US20060229569A1,Amgen,Stable phenolic compound compositions,1997-05-13
+CMP0045,Cc1ccccc1C,US20070287679A1,Merck,Pharmaceutical compositions comprising aromatic acids,2019-06-19
+CMP0046,Cc1ccccc1O,US20100160383A1,AstraZeneca,Pharmaceutical compositions comprising aromatic acids,2000-08-24
+CMP0047,Cc1ccccc1O,US20100267608A1,Bayer,COX pathway modulators and their uses,2011-11-23
+CMP0048,Cc1ccccc1N,US20110021424A1,GSK,COX pathway modulators and their uses,2008-03-13
+CMP0049,Cc1ccccc1N,US20110039766A1,Amgen,Substituted quinazoline derivatives and compositions,2011-06-09
+CMP0050,Cc1ccccc1O,US20110060062A1,Takeda,Substituted quinazoline derivatives and compositions,2002-07-03
+CMP0051,Cc1ccccc1O,US20110201766A1,AstraZeneca,Methods for synthesizing substituted benzamides,2009-10-04
+CMP0052,Cc1ccccc1C,US20110218208A1,Pfizer,Prodrugs of salicylic acid and uses thereof,2016-07-21
+CMP0053,Cc1ccccc1C,US20130065821A1,GSK,Methods for synthesizing substituted benzamides,2016-03-12
+CMP0054,Cc1ccccc1C,US20130109679A1,Amgen,Substituted quinazoline derivatives and compositions,2016-08-22
+CMP0055,Cc1ccccc1N,US20140256745A1,Novartis,Substituted quinazoline derivatives and compositions,2017-03-04
+CMP0056,Cc1ccccc1N,WO2009145678A1,Merck,Methods for synthesizing substituted benzamides,2003-05-16
+CMP0057,Cc1ccccc1N,WO2010034567A1,Roche,Methods for synthesizing substituted benzamides,2021-08-01
+CMP0058,Cc1ccccc1C,WO2011009876A1,Amgen,Methods for synthesizing substituted benzamides,1997-04-01
+CMP0059,Cc1ccccc1N,WO2012087654A1,Merck,Methods for synthesizing substituted benzamides,2000-06-23
+CMP0060,Cc1ccccc1C,EP2044319A1,Takeda,Prodrugs of salicylic acid and uses thereof,2006-03-21
+CMP0061,Cc1ccccc1N,EP2476155A1,Amgen,Agrochemical formulations of heterocyclic compounds,2020-01-11
+CMP0062,Cc1ccccc1C,EP2334567A1,Roche,COX pathway modulators and their uses,2023-04-10
+CMP0063,Cc1ccccc1C,EP2897654A1,Bayer,Agrochemical formulations of heterocyclic compounds,2008-07-10
+CMP0064,Cc1ccccc1O,US20140309250A1,Takeda,Agrochemical formulations of heterocyclic compounds,2003-03-05
+CMP0065,Cc1ccccc1N,US20160012345A1,Bayer,Prodrugs of salicylic acid and uses thereof,2000-03-23
+CMP0066,Cc1ccccc1N,US20190212345A1,GSK,Prodrugs of salicylic acid and uses thereof,2013-06-26
+CMP0067,Cc1ccccc1N,US20210012345A1,BMS,Stable phenolic compound compositions,2019-12-27
+CMP0068,Cc1ccccc1O,US4693702,Roche,Heteroaryl derivatives as enzyme inhibitors,2004-04-03
+CMP0069,Cc1ccccc1N,US5821323,GSK,Prodrugs of salicylic acid and uses thereof,1999-09-08
+CMP0070,Cc1ccccc1N,US4921989,Pfizer,Pharmaceutical compositions comprising aromatic acids,2002-09-11
+CMP0071,Cc1ccccc1C,US5935940,GSK,Heteroaryl derivatives as enzyme inhibitors,2015-02-24
+CMP0072,Cc1ccccc1C,US4007047,Takeda,Heteroaryl derivatives as enzyme inhibitors,2012-01-11
+CMP0073,Cc1ccccc1N,US4072905,Roche,Heteroaryl derivatives as enzyme inhibitors,1997-05-16
+CMP0074,Cc1ccccc1C,USRE44757E1,Merck,Heteroaryl derivatives as enzyme inhibitors,1995-03-04
+CMP0075,Cc1ccccc1N,US20030139869A1,Takeda,Prodrugs of salicylic acid and uses thereof,2016-07-14
+CMP0076,Cc1ccccc1C,US20040023894A1,AstraZeneca,Substituted quinazoline derivatives and compositions,2023-04-12
+CMP0077,Cc1ccccc1C,US20050020613A1,Bayer,COX pathway modulators and their uses,2023-05-03
+CMP0078,Cc1ccccc1O,US20060229569A1,BMS,Methods for preparing substituted indoles,2017-11-27
+CMP0079,Cc1ccccc1C,US20070287679A1,AstraZeneca,Methods for synthesizing substituted benzamides,2011-08-23
+CMP0080,Cc1ccccc1C,US20100160383A1,Bayer,Agrochemical formulations of heterocyclic compounds,2009-04-17
+CMP0081,Cc1ccccc1N,US20100267608A1,GSK,Heteroaryl derivatives as enzyme inhibitors,2003-11-22
+CMP0082,Cc1ccccc1C,US20110021424A1,BMS,Stable phenolic compound compositions,2007-02-22
+CMP0083,Cc1ccccc1O,US20110039766A1,GSK,Methods for synthesizing substituted benzamides,2020-07-27
+CMP0084,Cc1ccccc1O,US20110060062A1,AstraZeneca,Crystalline forms of active pharmaceutical ingredients,2000-10-05
+CMP0085,Cc1ccccc1O,US20110201766A1,AstraZeneca,Heteroaryl derivatives as enzyme inhibitors,2017-03-11
+CMP0086,Cc1ccccc1O,US20110218208A1,Novartis,Methods for synthesizing substituted benzamides,2001-08-17
+CMP0087,Cc1ccccc1C,US20130065821A1,GSK,Substituted quinazoline derivatives and compositions,1995-03-10
+CMP0088,Cc1ccccc1N,US20130109679A1,Merck,Pharmaceutical compositions comprising aromatic acids,2009-03-09
+CMP0089,Cc1ccccc1O,US20140256745A1,Takeda,Substituted quinazoline derivatives and compositions,2013-05-24
+CMP0090,Cc1ccccc1C,WO2009145678A1,Takeda,Methods for synthesizing substituted benzamides,1995-02-25
+CMP0091,Cc1ccccc1N,WO2010034567A1,GSK,COX pathway modulators and their uses,2006-02-21
+CMP0092,Cc1ccccc1C,WO2011009876A1,BMS,Prodrugs of salicylic acid and uses thereof,2022-04-15
+CMP0093,Cc1ccccc1N,WO2012087654A1,GSK,Methods for preparing substituted indoles,2016-08-26
+CMP0094,Cc1ccccc1N,EP2044319A1,Takeda,Substituted quinazoline derivatives and compositions,2001-10-25
+CMP0095,Cc1ccccc1C,EP2476155A1,AstraZeneca,Pharmaceutical compositions comprising aromatic acids,2013-03-12
+CMP0096,Cc1ccccc1O,EP2334567A1,Merck,Agrochemical formulations of heterocyclic compounds,2012-05-26
+CMP0097,Cc1ccccc1O,EP2897654A1,Bayer,Prodrugs of salicylic acid and uses thereof,2008-06-25
+CMP0098,Cc1ccccc1N,US20140309250A1,Pfizer,Crystalline forms of active pharmaceutical ingredients,2010-06-05
+CMP0099,Cc1ccccc1C,US20160012345A1,Pfizer,Agrochemical formulations of heterocyclic compounds,2018-11-01
+CMP0100,Cc1ccccc1N,US20190212345A1,Merck,Heteroaryl derivatives as enzyme inhibitors,2002-07-17
+CMP0101,Cc1ccccc1N,US20210012345A1,BMS,Agrochemical formulations of heterocyclic compounds,2022-09-27
+CMP0102,Cc1ccccc1N,US4693702,BMS,Methods for preparing substituted indoles,2017-04-27
+CMP0103,Cc1ccccc1O,US5821323,Roche,Stable phenolic compound compositions,2007-05-11
+CMP0104,Cc1ccccc1O,US4921989,Merck,Stable phenolic compound compositions,2007-02-19
+CMP0105,Cc1ccccc1O,US5935940,Merck,Substituted quinazoline derivatives and compositions,2009-02-03
+CMP0106,Cc1ccccc1C,US4007047,AstraZeneca,Stable phenolic compound compositions,2017-09-20
+CMP0107,Cc1ccccc1N,US4072905,Merck,Stable phenolic compound compositions,1995-05-20
+CMP0108,Cc1ccccc1C,USRE44757E1,GSK,Heteroaryl derivatives as enzyme inhibitors,2000-03-16
+CMP0109,Cc1ccccc1O,US20030139869A1,AstraZeneca,Methods for preparing substituted indoles,2017-08-22
+CMP0110,Cc1ccccc1C,US20040023894A1,Amgen,Substituted quinazoline derivatives and compositions,2002-09-04
+CMP0111,Cc1ccccc1C,US20050020613A1,Pfizer,COX pathway modulators and their uses,2002-01-03
+CMP0112,Cc1ccccc1C,US20060229569A1,Roche,Stable phenolic compound compositions,2008-09-01
+CMP0113,Cc1ccccc1O,US20070287679A1,Novartis,Agrochemical formulations of heterocyclic compounds,2016-12-13
+CMP0114,Cc1ccccc1C,US20100160383A1,Pfizer,Stable phenolic compound compositions,2020-04-06
+CMP0115,Cc1ccccc1C,US20100267608A1,Merck,Substituted quinazoline derivatives and compositions,2018-08-03
+CMP0116,Cc1ccccc1N,US20110021424A1,GSK,Crystalline forms of active pharmaceutical ingredients,1997-08-06
+CMP0117,Cc1ccccc1N,US20110039766A1,Takeda,Prodrugs of salicylic acid and uses thereof,1995-03-26
+CMP0118,Cc1ccccc1O,US20110060062A1,GSK,Prodrugs of salicylic acid and uses thereof,2000-07-04
+CMP0119,Cc1ccccc1C,US20110201766A1,GSK,Crystalline forms of active pharmaceutical ingredients,1996-05-03
+CMP0120,Cc1ccccc1N,US20110218208A1,Amgen,Stable phenolic compound compositions,2006-01-11
+CMP0121,Cc1ccccc1O,US20130065821A1,Amgen,Methods for synthesizing substituted benzamides,1996-12-12
+CMP0122,Cc1ccccc1C,US20130109679A1,Merck,Methods for preparing substituted indoles,2009-03-10
+CMP0123,Cc1ccccc1N,US20140256745A1,Takeda,Methods for preparing substituted indoles,1996-03-18
+CMP0124,Cc1ccccc1O,WO2009145678A1,AstraZeneca,Pharmaceutical compositions comprising aromatic acids,2009-07-25
+CMP0125,Cc1ccccc1O,WO2010034567A1,AstraZeneca,Heteroaryl derivatives as enzyme inhibitors,2011-06-18
+CMP0126,Cc1ccccc1C,WO2011009876A1,GSK,Pharmaceutical compositions comprising aromatic acids,2017-05-15
+CMP0127,Cc1ccccc1O,WO2012087654A1,BMS,Prodrugs of salicylic acid and uses thereof,1995-09-18
+CMP0128,Cc1ccccc1N,EP2044319A1,Pfizer,Methods for preparing substituted indoles,1995-08-20
+CMP0129,Cc1ccccc1N,EP2476155A1,Novartis,Pharmaceutical compositions comprising aromatic acids,2007-03-26
+CMP0130,Cc1ccccc1C,EP2334567A1,Takeda,Stable phenolic compound compositions,2011-12-19
+CMP0131,Cc1ccccc1N,EP2897654A1,Novartis,Stable phenolic compound compositions,2007-12-26
+CMP0132,Cc1ccccc1C,US20140309250A1,Amgen,Heteroaryl derivatives as enzyme inhibitors,2002-01-15
+CMP0133,Cc1ccccc1O,US20160012345A1,BMS,Prodrugs of salicylic acid and uses thereof,2012-01-03
+CMP0134,Cc1ccccc1N,US20190212345A1,Merck,Crystalline forms of active pharmaceutical ingredients,1996-03-19
+CMP0135,Cc1ccccc1N,US20210012345A1,Takeda,Substituted quinazoline derivatives and compositions,2011-05-14
+CMP0136,Cc1ccccc1C,US4693702,GSK,Heteroaryl derivatives as enzyme inhibitors,2000-05-08
+CMP0137,Cc1ccccc1O,US5821323,Merck,Heteroaryl derivatives as enzyme inhibitors,2010-11-14
+CMP0138,Cc1ccccc1O,US4921989,Bayer,COX pathway modulators and their uses,2019-11-21
+CMP0139,Cc1ccccc1C,US5935940,AstraZeneca,Methods for preparing substituted indoles,2014-03-17
+CMP0140,Cc1ccccc1O,US4007047,Pfizer,Crystalline forms of active pharmaceutical ingredients,1997-08-18
+CMP0141,Cc1ccccc1O,US4072905,Takeda,COX pathway modulators and their uses,2020-05-23
+CMP0142,Cc1ccccc1C,USRE44757E1,Merck,Substituted quinazoline derivatives and compositions,2005-10-28
+CMP0143,Cc1ccccc1O,US20030139869A1,Amgen,COX pathway modulators and their uses,2012-01-24
+CMP0144,Cc1ccccc1C,US20040023894A1,BMS,Heteroaryl derivatives as enzyme inhibitors,2022-12-04
+CMP0145,Cc1ccccc1N,US20050020613A1,Pfizer,Agrochemical formulations of heterocyclic compounds,1995-12-09
+CMP0146,Cc1ccccc1N,US20060229569A1,Roche,COX pathway modulators and their uses,1997-01-18
+CMP0147,Cc1ccccc1O,US20070287679A1,AstraZeneca,Agrochemical formulations of heterocyclic compounds,2020-05-18
+CMP0148,Cc1ccccc1N,US20100160383A1,Roche,Substituted quinazoline derivatives and compositions,2009-01-18
+CMP0149,Cc1ccccc1O,US20100267608A1,BMS,Pharmaceutical compositions comprising aromatic acids,1998-01-01
+CMP0150,Cc1ccccc1O,US20110021424A1,Takeda,Methods for preparing substituted indoles,2008-09-17
+CMP0151,Cc1ccccc1O,US20110039766A1,Merck,Agrochemical formulations of heterocyclic compounds,2011-11-27
+CMP0152,Cc1ccccc1O,US20110060062A1,Novartis,Pharmaceutical compositions comprising aromatic acids,2014-06-14
+CMP0153,Cc1ccccc1N,US20110201766A1,Pfizer,Crystalline forms of active pharmaceutical ingredients,2001-12-23
+CMP0154,Cc1ccccc1C,US20110218208A1,Bayer,Methods for synthesizing substituted benzamides,2009-03-24
+CMP0155,Cc1ccccc1N,US20130065821A1,Roche,Methods for synthesizing substituted benzamides,2001-11-15
+CMP0156,Cc1ccccc1O,US20130109679A1,Bayer,Substituted quinazoline derivatives and compositions,2005-09-13
+CMP0157,Cc1ccccc1C,US20140256745A1,Amgen,Crystalline forms of active pharmaceutical ingredients,2020-10-11
+CMP0158,Cc1ccccc1C,WO2009145678A1,Takeda,Prodrugs of salicylic acid and uses thereof,2010-11-02
+CMP0159,Cc1ccccc1N,WO2010034567A1,Pfizer,Methods for synthesizing substituted benzamides,2003-12-17
+CMP0160,Cc1ccccc1O,WO2011009876A1,Amgen,Substituted quinazoline derivatives and compositions,1999-05-17
+CMP0161,Cc1ccccc1O,WO2012087654A1,Novartis,Prodrugs of salicylic acid and uses thereof,2007-07-18
+CMP0162,Cc1ccccc1O,EP2044319A1,Merck,Stable phenolic compound compositions,1997-01-06
+CMP0163,Cc1ccccc1C,EP2476155A1,Novartis,Agrochemical formulations of heterocyclic compounds,2021-02-20
+CMP0164,Cc1ccccc1C,EP2334567A1,Bayer,Agrochemical formulations of heterocyclic compounds,2013-02-04
+CMP0165,Cc1ccccc1N,EP2897654A1,Novartis,Methods for synthesizing substituted benzamides,2001-07-24
+CMP0166,Cc1ccccc1N,US20140309250A1,BMS,Methods for synthesizing substituted benzamides,2008-06-20
+CMP0167,Cc1ccccc1N,US20160012345A1,GSK,Methods for preparing substituted indoles,2011-05-12
+CMP0168,Cc1ccccc1C,US20190212345A1,Roche,Crystalline forms of active pharmaceutical ingredients,2021-04-26
+CMP0169,Cc1ccccc1C,US20210012345A1,Roche,Methods for synthesizing substituted benzamides,2004-12-23
+CMP0170,Cc1ccccc1O,US4693702,GSK,Methods for preparing substituted indoles,2017-12-08
+CMP0171,Cc1ccccc1C,US5821323,Takeda,COX pathway modulators and their uses,1999-07-05
+CMP0172,Cc1ccccc1O,US4921989,BMS,Agrochemical formulations of heterocyclic compounds,2010-01-14
+CMP0173,Cc1ccccc1O,US5935940,Roche,Stable phenolic compound compositions,1999-06-14
+CMP0174,Cc1ccccc1O,US4007047,BMS,Agrochemical formulations of heterocyclic compounds,2015-05-15
+CMP0175,Cc1ccccc1N,US4072905,Roche,Crystalline forms of active pharmaceutical ingredients,2002-07-07
+CMP0176,Cc1ccccc1O,USRE44757E1,Amgen,Heteroaryl derivatives as enzyme inhibitors,2001-03-07
+CMP0177,Cc1ccccc1N,US20030139869A1,Amgen,Agrochemical formulations of heterocyclic compounds,2010-08-25
+CMP0178,Cc1ccccc1N,US20040023894A1,Novartis,Prodrugs of salicylic acid and uses thereof,2006-05-17
+CMP0179,Cc1ccccc1O,US20050020613A1,Roche,Crystalline forms of active pharmaceutical ingredients,2008-09-03
+CMP0180,Cc1ccccc1O,US20060229569A1,AstraZeneca,Crystalline forms of active pharmaceutical ingredients,1995-08-20
+CMP0181,Cc1ccccc1C,US20070287679A1,Bayer,Stable phenolic compound compositions,2011-07-21
+CMP0182,Cc1ccccc1O,US20100160383A1,Amgen,Prodrugs of salicylic acid and uses thereof,2020-06-28
+CMP0183,Cc1ccccc1C,US20100267608A1,BMS,Prodrugs of salicylic acid and uses thereof,2021-10-23
+CMP0184,Cc1ccccc1N,US20110021424A1,Bayer,Methods for preparing substituted indoles,2022-03-08
+CMP0185,Cc1ccccc1N,US20110039766A1,AstraZeneca,Prodrugs of salicylic acid and uses thereof,2009-03-01
+CMP0186,Cc1ccccc1C,US20110060062A1,GSK,Methods for preparing substituted indoles,1998-01-18
+CMP0187,Cc1ccccc1C,US20110201766A1,Novartis,Pharmaceutical compositions comprising aromatic acids,2011-06-25
+CMP0188,Cc1ccccc1O,US20110218208A1,Roche,Agrochemical formulations of heterocyclic compounds,2005-12-26
+CMP0189,Cc1ccccc1O,US20130065821A1,Merck,Substituted quinazoline derivatives and compositions,2017-07-16
+CMP0190,Cc1ccccc1C,US20130109679A1,Novartis,Methods for preparing substituted indoles,2020-10-09
+CMP0191,Cc1ccccc1C,US20140256745A1,AstraZeneca,Agrochemical formulations of heterocyclic compounds,2002-05-09
+CMP0192,Cc1ccccc1C,WO2009145678A1,Pfizer,Methods for preparing substituted indoles,1998-06-06
+CMP0193,Cc1ccccc1O,WO2010034567A1,Amgen,Crystalline forms of active pharmaceutical ingredients,2009-01-08
+CMP0194,Cc1ccccc1C,WO2011009876A1,AstraZeneca,Methods for synthesizing substituted benzamides,2007-10-09
+CMP0195,Cc1ccccc1C,WO2012087654A1,Merck,Stable phenolic compound compositions,2022-10-02
+CMP0196,Cc1ccccc1O,EP2044319A1,Takeda,COX pathway modulators and their uses,2010-04-28
+CMP0197,Cc1ccccc1N,EP2476155A1,AstraZeneca,Methods for preparing substituted indoles,2014-07-18
+CMP0198,Cc1ccccc1C,EP2334567A1,AstraZeneca,COX pathway modulators and their uses,2022-01-07
+CMP0199,Cc1ccccc1O,EP2897654A1,Pfizer,Crystalline forms of active pharmaceutical ingredients,2008-02-18
