@@ -2,21 +2,21 @@
   "scientist": {
     "name": "Dr. Alice Chemist",
     "role": "Medicinal Chemist (Biotech)",
-    "password_hash": "$2b$12$foMHR2vPE1JGJYxm2HJn7.CbdPmzps4JBZxVZebfROqBNDCEhtnyG"
+    "password_hash": "pbkdf2_sha256$200000$S+zCzHCC4OOzmArABmX5Ng==$OZvmWtrbWTU2BBLJ38yK11EJwZmk9IBvO0pUw6GlU+g="
   },
   "attorney": {
     "name": "Ben Patent",
     "role": "Chemistry Patent Attorney",
-    "password_hash": "$2b$12$VkOuMqWZ.HDrEekZjgYAiu9rbM/6nTRhMNXxSFzyFxjrWelwqiNFy"
+    "password_hash": "pbkdf2_sha256$200000$VQG6uSn8jlauUFL/syK02Q==$BOlN6BjzboITWF1SsAxLK5EM6NqpLhgYTpcAn7n9oao="
   },
   "founder": {
     "name": "Cara Founder",
     "role": "Biotech Founder / CSO",
-    "password_hash": "$2b$12$SEJ9O7iqYNeUunFIAXt9BesoF4fkTlLKya9f4y4e0dA4Jcygef8xu"
+    "password_hash": "pbkdf2_sha256$200000$xsSeQswn4H/KUhZMdEMeow==$tNGROBkMPwrZv2w6dA6lNMo4wemqHY4pN7kMiARb5M4="
   },
   "tto": {
     "name": "Dana TTO",
     "role": "University Tech Transfer",
-    "password_hash": "$2b$12$Mm1Ac3XBzI6ig3j4YSnN5eG9bsFHqovmqczbJmljhCUkQtBZ5PWQC"
+    "password_hash": "pbkdf2_sha256$200000$3vgyr13PHpEkEzxeOvMC6w==$R0pHc1h4QmJFE7ZQsIxx6L9/f/9RB5dsUDVSooRDJQM="
   }
 }

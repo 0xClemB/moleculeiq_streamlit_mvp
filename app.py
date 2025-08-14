@@ -2,9 +2,27 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import hashlib, re, json, bcrypt
+import hashlib, re, json, base64, os, hmac
 from datetime import datetime
 from io import BytesIO
+
+# === PBKDF2-HMAC password hashing (stdlib; no external deps) ===
+def hash_password(password: str, iterations: int = 200_000) -> str:
+    salt = os.urandom(16)
+    dk = hashlib.pbkdf2_hmac("sha256", password.encode(), salt, iterations)
+    return f"pbkdf2_sha256${iterations}${base64.b64encode(salt).decode()}${base64.b64encode(dk).decode()}"
+
+def verify_password(password: str, stored_hash: str) -> bool:
+    try:
+        algo, s_iters, s_salt, s_hash = stored_hash.split("$", 3)
+        iterations = int(s_iters)
+        salt = base64.b64decode(s_salt)
+        expected = base64.b64decode(s_hash)
+        dk = hashlib.pbkdf2_hmac("sha256", password.encode(), salt, iterations)
+        return hmac.compare_digest(dk, expected)
+    except Exception:
+        return False
+
 
 # =================== Simple Login (username/password via bcrypt) ===================
 def load_users():
@@ -21,7 +39,7 @@ def check_password(username: str, password: str) -> bool:
     if not user:
         return False
     try:
-        return bcrypt.checkpw(password.encode("utf-8"), user["password_hash"].encode("utf-8"))
+        return verify_password(password, user["password_hash"]), user["password_hash"].encode("utf-8"))
     except Exception:
         return False
 

@@ -26,3 +26,14 @@ streamlit run app.py
 ## Notes
 - Passwords are hashed with bcrypt; plaintext examples are provided only in TEST_ACCOUNTS.txt for demo use.
 - For production, replace this with **OIDC/SAML SSO** via a gateway as per our plan.
+
+
+---
+
+## v16 changes
+- Switched login hashing from `bcrypt` to **PBKDF2-HMAC (stdlib)** — no external binary dependency.
+- Replaced deprecated `st.experimental_rerun()` with `st.rerun()`.
+- Kept v15 features: login personas, Examples dropdown, TOC links, claim diff legend, widened columns, verified patent links, etc.
+
+### Deploying on Streamlit Cloud
+No `bcrypt` needed. Just push to GitHub and deploy. If you pinned a runtime, Python 3.11+ is fine.
